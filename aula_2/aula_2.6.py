@@ -48,7 +48,7 @@ class Funcionario:
     def get_salario(self):
         return self.salario
 
-    def set_salario(self, salario: str):
+    def set_salario(self, salario: int):
         self.salario = salario
 
     def get_departamento(self):
