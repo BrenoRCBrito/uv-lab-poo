@@ -1,0 +1,1 @@
+![img](../aula_5/resources/exercicio_aula.jpeg)
